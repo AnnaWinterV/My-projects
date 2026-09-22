@@ -55,3 +55,6 @@ Python • PyTorch • ResNet18 • Transfer Learning • Fine-tuning • Data A
 ---
 
 **Участие в соревновании:** [ Анна_Вахрушева_510546997](https://www.kaggle.com/competitions/journey-to-springfield1/leaderboard) — Score: 0.99256
+
+---
+📂 *[Вернуться к обзору проектов Deep Learning & CV](../README.md)*
